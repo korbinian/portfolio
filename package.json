@@ -1,0 +1,14 @@
+{
+  "name": "korbinianpolk",
+  "version": "0.0.1",
+  "description": "Portfolio for korbinianpolk.de",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/korbinian/portfolio.git"
+  },
+  "author": "Korbinian Polk",
+  "homepage": "https://github.com/korbinian/portfolio",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
